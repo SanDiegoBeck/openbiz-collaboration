@@ -1,7 +1,8 @@
-#summary One-sentence summary of this page.
 #labels Featured
+#the basic function module of Collaboration suite
 
 = Introduction =
+Since all the practical application is based on user that is the contacts module is designed for.
 
 https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/colla_intro/contacts/contact1.jpg
 
@@ -16,7 +17,7 @@ https://openbiz-cubi.googlecode.com/svn/trunk/docs/img/colla_intro/contacts/cont
 
 = Details =
 
-Add your content here.  Format your content with:
+contact function menu as below:
   * Contact Manage
   * Contact Grabber
   * Contact Type
